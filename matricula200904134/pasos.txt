@@ -1,2 +1,5 @@
 uname -m
 lsb_release -a
+uname -a
+bugname: Ricardo
+correo: chabitamar15red@hotmail.com
